@@ -1,4 +1,5 @@
-### third culture kid :airplane: learning how to code
+### third culture kid  learning how to code
+- :airplane: third culture kid, taking the world of github one code at a time
 
 
 <!--
